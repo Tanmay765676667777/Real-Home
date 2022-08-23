@@ -14,7 +14,10 @@ The build is minified and the filenames include the hashes.\
 
 Available Scripts (backend)
 npm run strapi develop
-Open http://localhost:1337 to view it in your browser.\
+Open http://localhost:1337 to view it in your browser.
+login credential --  
+test@gmail.com
+password - Test12345
 
 npm run strapi start
 npm run strapi build
